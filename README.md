@@ -8,11 +8,11 @@
 └── src
     └── pages
         ├── top
-        ├── Top.vue
-        └── main.js
-            └── users
-                ├── Users.vue
-                └── main.js
+        │   ├── Top.vue
+        │   └── main.js
+        └── users
+            ├── Users.vue
+            └── main.js
 ```
 ## Project setup
 ```
